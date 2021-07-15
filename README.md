@@ -1,3 +1,3 @@
 # easybank
-Frontend Mentor Challenge 
-HTML CSS SCSS JS
+# Frontend Mentor Challenge 
+# HTML CSS SCSS JS
